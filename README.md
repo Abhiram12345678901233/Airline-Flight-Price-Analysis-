@@ -6,68 +6,68 @@ This project performs Exploratory Data Analysis (EDA) on airline flight data to 
 The analysis uncovers patterns in airfare pricing based on airline, travel class, stops, duration, routes, and booking timing.
 
 ## 🎯Objectives
-1)Identify key factors affecting flight ticket prices
-2)Understand pricing patterns across airlines and routes
-3)Analyze the impact of travel class and stops on fares
-4)Discover booking timing trends affecting price
+1)Identify key factors affecting flight ticket prices<br>
+2)Understand pricing patterns across airlines and routes<br>
+3)Analyze the impact of travel class and stops on fares<br>
+4)Discover booking timing trends affecting price<br>
 
 ## 📁Dataset
-The dataset contains detailed flight booking information.
-📌 The dataset includes:-
-Airline,Flight Code,Source City,Destination City,Departure Time,Arrival Time,Duration,Number of Stops,Travel Class,Days Left (before departure),Ticket Price.
+The dataset contains detailed flight booking information.<br>
+📌 The dataset includes:-<br>
+Airline,Flight Code,Source City,Destination City,Departure Time,Arrival Time,Duration,Number of Stops,Travel Class,Days Left (before departure),Ticket Price.<br>
 
 ## 🐍Tools & Libraries Used
-o)Python
-o)NumPy → numerical operations
-o)Pandas → data manipulation & cleaning
-o)Matplotlib → visualization
-o)Seaborn → statistical graphics
-o)Jupyter Notebook
+o)Python<br>
+o)NumPy → numerical operations<br>
+o)Pandas → data manipulation & cleaning<br>
+o)Matplotlib → visualization<br>
+o)Seaborn → statistical graphics<br>
+o)Jupyter Notebook<br>
 
 ## 🧹Data Cleaning & Preparation
-✔ Checked missing values
-✔ Verified data types
-✔ Converted columns where necessary
-✔ Validated categorical & numerical features
-✔ Prepared dataset for analysis
+✔ Checked missing values<br>
+✔ Verified data types<br>
+✔ Converted columns where necessary<br>
+✔ Validated categorical & numerical features<br>
+✔ Prepared dataset for analysis<br>
 
 ## 📊Exploratory Data Analysis
-EDA was conducted to explore both numerical and categorical variables.
-🔢 Numerical Analysis
-^Price distribution & outliers
-^Duration vs price relationship
-^Days left vs price trend
+EDA was conducted to explore both numerical and categorical variables.<br>
+## 🔢Numerical Analysis
+^Price distribution & outliers<br>
+^Duration vs price relationship<br>
+^Days left vs price trend<br>
 
 ## 🔠Categorical Analysis
-^Airline frequency distribution
-^Route popularity
-^Departure & arrival trends
-^Stops impact on pricing
-^Travel class comparison
+^Airline frequency distribution<br>
+^Route popularity<br>
+^Departure & arrival trends<br>
+^Stops impact on pricing<br>
+^Travel class comparison<br>
 
 ## 📈Visualizations Created
-📊 Ticket price distribution
-📊 Airline vs ticket price comparison
-📊 Duration vs price relationship
-📊 Stops vs price impact
-📊 Class vs fare comparison
-📊 Source–destination route frequency
-📊 Booking timing vs ticket price
+📊 Ticket price distribution<br>
+📊 Airline vs ticket price comparison<br>
+📊 Duration vs price relationship<br>
+📊 Stops vs price impact<br>
+📊 Class vs fare comparison<br>
+📊 Source–destination route frequency<br>
+📊 Booking timing vs ticket price<br>
 
 ## 🔍Key Insights
-✅ Ticket prices vary significantly across airlines
-✅ Business class fares are substantially higher than economy
-✅ Flights with more stops are generally cheaper
-✅ Prices increase as the departure date approaches
-✅ Duration and route distance influence fare pricing
-✅ Certain routes and airlines dominate traffic pattern
+✅ Ticket prices vary significantly across airlines<br>
+✅ Business class fares are substantially higher than economy<br>
+✅ Flights with more stops are generally cheaper<br>
+✅ Prices increase as the departure date approaches<br>
+✅ Duration and route distance influence fare pricing<br>
+✅ Certain routes and airlines dominate traffic pattern<br>
 
 ## 📊Business insights
-This analysis can help:
-✔ Travelers identify cost-saving booking strategies
-✔ Airlines optimize pricing strategies
-✔ Travel platforms improve fare prediction models
-✔ Analysts understand airfare trends
+This analysis can help:<br>
+✔ Travelers identify cost-saving booking strategies<br>
+✔ Airlines optimize pricing strategies<br>
+✔ Travel platforms improve fare prediction models<br>
+✔ Analysts understand airfare trends<br>
 
 ## ✅Conclusion
 My project demonstrates how Python-based EDA and visualization techniques can uncover meaningful insights into airline ticket pricing behavior.Understanding these patterns enables smarter booking decisions, pricing optimization, and improved travel analytics.My project analyzing airline ticket pricing using Pandas, NumPy, Matplotlib, and Seaborn, with a focus on customer insights and fare trends.
