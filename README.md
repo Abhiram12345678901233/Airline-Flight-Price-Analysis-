@@ -1,7 +1,7 @@
 # Airline-Flight-Price-Analysis-
 Data analysis project exploring airline fare trends, pricing factors, and booking patterns using Python.
 
-📊 Project Overview
+📊 Project Overview:-
 This project performs Exploratory Data Analysis (EDA) on airline flight data to understand factors influencing ticket prices.
 The analysis uncovers patterns in airfare pricing based on airline, travel class, stops, duration, routes, and booking timing.
 
